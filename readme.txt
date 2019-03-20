@@ -13,3 +13,5 @@
  Also file can be opened with right mouse click and choice of this application.
  It's may be convenient to mark the checkbox "open with this program" for files
  with ".log" extension.
+
+ Sources attached in "lv_github.zip".
